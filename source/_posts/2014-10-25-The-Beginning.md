@@ -16,5 +16,6 @@ categories:
 - {% link GitHub http://github.com/ %}
 - {% link Google分析 https://www.google.com/analytics/ %}
 - {% link 七牛图床 https://portal.qiniu.com/ %}
+- {% link 多说 http://duoshuo.com/ %}
 
 睡觉
