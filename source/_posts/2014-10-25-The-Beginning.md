@@ -14,7 +14,7 @@ categories:
 - {% link hexo官方网站 http://hexo.io/docs %}
 - {% link 不如博客 http://ibruce.info/2013/11/22/hexo-your-blog/ %}
 - {% link GitHub http://github.com/ %}
-- {% link Google分析 https://www.google.com/analytics/ %}
+- {% link Google分析 http://www.google.com/intl/zh-CN/analytics/ %}
 - {% link 七牛图床 https://portal.qiniu.com/ %}
 - {% link 多说 http://duoshuo.com/ %}
 
