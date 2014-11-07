@@ -89,6 +89,7 @@ theme: landscape-plus
 exclude_generator:
 plugins:
 - hexo-generator-feed
+- hexo-generator-minify
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
@@ -97,3 +98,5 @@ deploy:
   repository: https://github.com/lanbin/lanbin.github.io.git
   branch: master
 
+livereload:
+  port: 35729
